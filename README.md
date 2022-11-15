@@ -1,4 +1,4 @@
-# multi-regression
+# multi linear regression
 
 Prepare a prediction model for profit of 50_startups data.
 Do transformations for getting better predictions of profit and
